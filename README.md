@@ -1,2 +1,2 @@
 # SecurePhotos_LC
-Encrypted photo manager written in OpenXTalk
+Encrypted photo manager written in [OpenXTalk](https://www.openxtalk.org)
