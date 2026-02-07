@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>Vasilkoff PAD Make 1.0</MASTER_PAD_EDITOR>
+    <MASTER_PAD_EDITOR_URL>https://vasilkoff.com/pad-make</MASTER_PAD_EDITOR_URL>
+    <MASTER_PAD_INFO>Portable Application Description (PAD) is a structured XML format that describes software applications for easy submission to directories.</MASTER_PAD_INFO>
+    <CERTIFIED>N</CERTIFIED>
+    <CERTIFICATE_ID></CERTIFICATE_ID>
+    <CERTIFICATE_LICENSE></CERTIFICATE_LICENSE>
+  </MASTER_PAD_VERSION_INFO>
+
+  <Company_Info>
+    <Company_Name>Emily-Elizabeth Howard</Company_Name>
+    <Company_WebSite_URL>https://github.com/emily-elizabeth</Company_WebSite_URL>
+    <Contact_Info>
+      <Contact_Email>emily-elizabeth.howard@outlook.com</Contact_Email>
+    </Contact_Info>
+  </Company_Info>
+
+  <Program_Info>
+    <Program_Name>Secure Photos</Program_Name>
+    <Program_Version>1.2.0</Program_Version>
+    <Program_Release_Month>01</Program_Release_Month>
+    <Program_Release_Day>02</Program_Release_Day>
+    <Program_Release_Year>2026</Program_Release_Year>
+    <Program_Type>Freeware</Program_Type>
+    <Program_Category_Class>Graphic Apps::Gallery &amp; Cataloging Tools</Program_Category_Class>
+    <Program_OS_Support>WinOther</Program_OS_Support>
+  </Program_Info>
+
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://github.com/emily-elizabeth</Application_Info_URL>
+      <Application_Screenshot_URL>https://i.ibb.co/rR50jW9Z/528821394-d216d342-3978-4a1d-b49a-cc06c8a28346.png</Application_Screenshot_URL>
+      <Application_Icon_URL>https://i.ibb.co/KjfYtw1m/528821382-a67004dd-1a3a-497d-a2c1-72c6b6ea97e0.png</Application_Icon_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://github.com/emily-elizabeth/SecurePhotos_LC/releases/download/1.2.0/Secure.Photos.Windows.x86-64.zip</Primary_Download_URL>
+    </Download_URLs>
+  </Web_Info>
+
+  <Program_Descriptions>
+    <English>
+      <Char_Desc_450>Encrypted photo manager written in OpenXTalk. Protect your personal memories. Whether it’s family vacations, birthdays, or everyday moments, ensure your photos stay private and secure.</Char_Desc_450>
+    </English>
+  </Program_Descriptions>
+</XML_DIZ_INFO>
